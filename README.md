@@ -13,10 +13,10 @@ WikiData-MCI is a new-generation AI-enhanced interface to Wikidata that offers t
 
 ## 🌟 Features
 
-- *MCP*: Model-Context-Protocol interfaces orchestrates the connection between LLM and WikiData.
-- *LLM*: Large Language Models for enhanced querying and exploration capabilities, for example enabling automatic conversion of natural language queries into SPARQL queries and summarization of the results.
-- *Visualization*: The structures returned by WikiData are rendered as interactive knowledge graphs, allowing additional information to be expanded into, and providing a visual representation of the relationships between entities.
-- *Interactivity*: Providing a real-time feedback loop giving insight into the working of the agentic knowledge exploration process.
+- **MCP**: Model-Context-Protocol interfaces orchestrates the connection between LLM and WikiData.
+- **LLM**: Large Language Models for enhanced querying and exploration capabilities, for example enabling automatic conversion of natural language queries into SPARQL queries and summarization of the results.
+- **Visualization**: The structures returned by WikiData are rendered as interactive knowledge graphs, allowing additional information to be expanded into, and providing a visual representation of the relationships between entities.
+- **Interactivity**: Providing a real-time feedback loop giving insight into the working of the agentic knowledge exploration process.
 
 ## 🚀 Getting Started
 
