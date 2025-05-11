@@ -8,9 +8,12 @@
 
 ## 📖 Overview
 
-WikiData is a vast knowledge base with over 100 million entities, making it an incredible resource for  exploration and querying.
+**[WikiData](wikidata.org)** is a vast knowledge base with over 100 million entities, making it an incredible resource for  exploration and querying.
 
 **WikiData-MCI** is a new-generation AI-enhanced interface to Wikidata that offers the power of large language models, agentic technology based on MCP, and user-friendly visual interactivity.
+
+**Model-Context-Interface** is the user interface developed for access to a MCP server. It performs a similar role as a web browser would in interfacing with a HTTP server. 
+While agents can use a MCP server directly, interfaces are designed for human access to the MCP servers. Both agents as well as interfaces employ LLM technology.
 
 ## 🌟 Features
 
