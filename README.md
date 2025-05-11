@@ -1,4 +1,4 @@
-# Project Name
+# WikiData-MCI
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/aleksj/wikidata-mci.svg)](https://github.com/aleksj/wikidata-mci/stargazers)
