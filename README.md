@@ -1,5 +1,8 @@
 # WikiData-MCI
 
+![MCI Image](MCI.png)
+
+
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/aleksj/wikidata-mci.svg)](https://github.com/aleksj/wikidata-mci/stargazers)
 [![GitHub Issues](https://img.shields.io/github/issues/aleksj/wikidata-mci.svg)](https://github.com/aleksj/wikidata-mci/issues)
@@ -12,8 +15,9 @@
 
 **WikiData-MCI** is a new-generation AI-enhanced interface to Wikidata that offers the power of large language models, agentic technology based on MCP, and user-friendly visual interactivity.
 
-**Model-Context-Interface** is the user interface developed for access to a MCP server. It performs a similar role as a web browser would in interfacing with a HTTP server. 
-While agents can use a MCP server directly, interfaces are designed for human access to the MCP servers. Both agents as well as interfaces employ LLM technology.
+**Model-Context-Interface** is the user interface developed for access to a MCP server. It performs a similar role as a web browser would in interfacing with a HTTP server.
+
+Namely, MCP servers aren't just for agents, they're also for humans. MCIs are designed to augment human intelligence and provide a user-friendly interface for accessing MCP servers. Both agents and interfaces employ LLM technology.
 
 ## 🌟 Features
 
