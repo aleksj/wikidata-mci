@@ -9,7 +9,8 @@
 ## 📖 Overview
 
 WikiData is a vast knowledge base with over 100 million entities, making it an incredible resource for  exploration and querying.
-WikiData-MCI is a new-generation AI-enhanced interface to Wikidata that offers the power of large language models, agentic technology based on MCP, and user-friendly visual interactivity.
+
+**WikiData-MCI** is a new-generation AI-enhanced interface to Wikidata that offers the power of large language models, agentic technology based on MCP, and user-friendly visual interactivity.
 
 ## 🌟 Features
 
